@@ -13,7 +13,7 @@ import com.nagarro.microservices.userservice.Configuration;
 
 
 @RestController
-@RequestMapping("/admin")
+@RequestMapping("public/admin")
 public class UserServiceController {
 
 	
